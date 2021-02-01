@@ -10,3 +10,4 @@ E:\PROGRAMMING\C#\PROGRAMS\Szkoła_Dotneta\TEMP\SzkolaDotneta_Loops\obj\Debug\ne
 E:\PROGRAMMING\C#\PROGRAMS\Szkoła_Dotneta\TEMP\SzkolaDotneta_Loops\obj\Debug\netcoreapp3.1\SzkolaDotneta_Loops.dll
 E:\PROGRAMMING\C#\PROGRAMS\Szkoła_Dotneta\TEMP\SzkolaDotneta_Loops\obj\Debug\netcoreapp3.1\SzkolaDotneta_Loops.pdb
 E:\PROGRAMMING\C#\PROGRAMS\Szkoła_Dotneta\TEMP\SzkolaDotneta_Loops\obj\Debug\netcoreapp3.1\SzkolaDotneta_Loops.genruntimeconfig.cache
+E:\PROGRAMMING\C#\PROGRAMS\Szkoła_Dotneta\TEMP\SzkolaDotneta_Loops\obj\Debug\netcoreapp3.1\SzkolaDotneta_Loops.csprojAssemblyReference.cache
